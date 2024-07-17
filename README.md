@@ -120,6 +120,6 @@ This project involves developing an e-commerce website using Django. It's divide
 - Django
 - HTML/CSS/JavaScript
 - Bootstrap (or another CSS framework)
-- PostgreSQL (or another database)
+- dbsqlite3
 - Git version control
 
